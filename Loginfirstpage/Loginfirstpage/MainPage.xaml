@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Loginfirstpage.MainPage" BackgroundColor="BurlyWood">
+
+    <StackLayout>
+        <SearchBar x:Name="sbSearchName" Text="Search Something" FontSize="Small"></SearchBar>
+        <Image Source="ringshop.jpg" WidthRequest="80" HeightRequest="80" Margin="0,30,0,0"></Image>
+
+
+
+
+        <Label x:Name="lblUserName" Text="Username" FontSize="Medium"  Margin="25,15,10,0"></Label>
+        <Entry x:Name="etUseNname" Text="type a phonenumber" FontSize="Small" BackgroundColor="White" Margin="25,15,25,0"></Entry>
+        <Label x:Name="lblPassword" Text="Password:" FontSize="Medium"  Margin="25,15,10,0"></Label>
+        <Entry x:Name="etUserName" Text="type a password" FontSize="Small" BackgroundColor="White" Margin="25,15,25,0"></Entry>
+        <CheckBox x:Name="chkPlaying" IsChecked="false" Margin="25,0,0,0"></CheckBox>
+
+        <StackLayout Orientation="Horizontal">
+
+            <Button x:Name="btnLogin" Text="Login" FontSize="Small" BackgroundColor="DarkViolet" HorizontalOptions="Fill" Margin="55,0,25,0"></Button>
+            <Button x:Name="btnReset" Text="Reset" FontSize="Small" BackgroundColor="DarkViolet" HorizontalOptions="Fill" Margin="45,0,25,0"></Button>
+
+
+        </StackLayout>
+     
+        
+        
+        <Label x:Name="lblUserNew" Text="NewUser" FontSize="Medium"  Margin="150,25,25,50"></Label>
+
+    </StackLayout>
+
+</ContentPage>

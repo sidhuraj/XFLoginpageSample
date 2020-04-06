@@ -1,0 +1,13 @@
+C:\Users\santosh\source\repos\Loginfirstpage\Loginfirstpage\Loginfirstpage\bin\Debug\netstandard2.0\Loginfirstpage.deps.json
+C:\Users\santosh\source\repos\Loginfirstpage\Loginfirstpage\Loginfirstpage\bin\Debug\netstandard2.0\Loginfirstpage.dll
+C:\Users\santosh\source\repos\Loginfirstpage\Loginfirstpage\Loginfirstpage\bin\Debug\netstandard2.0\ref\Loginfirstpage.dll
+C:\Users\santosh\source\repos\Loginfirstpage\Loginfirstpage\Loginfirstpage\bin\Debug\netstandard2.0\Loginfirstpage.pdb
+C:\Users\santosh\source\repos\Loginfirstpage\Loginfirstpage\Loginfirstpage\obj\Debug\netstandard2.0\Loginfirstpage.csprojAssemblyReference.cache
+C:\Users\santosh\source\repos\Loginfirstpage\Loginfirstpage\Loginfirstpage\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\santosh\source\repos\Loginfirstpage\Loginfirstpage\Loginfirstpage\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\santosh\source\repos\Loginfirstpage\Loginfirstpage\Loginfirstpage\obj\Debug\netstandard2.0\Loginfirstpage.AssemblyInfoInputs.cache
+C:\Users\santosh\source\repos\Loginfirstpage\Loginfirstpage\Loginfirstpage\obj\Debug\netstandard2.0\Loginfirstpage.AssemblyInfo.cs
+C:\Users\santosh\source\repos\Loginfirstpage\Loginfirstpage\Loginfirstpage\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\santosh\source\repos\Loginfirstpage\Loginfirstpage\Loginfirstpage\obj\Debug\netstandard2.0\Loginfirstpage.dll
+C:\Users\santosh\source\repos\Loginfirstpage\Loginfirstpage\Loginfirstpage\obj\Debug\netstandard2.0\ref\Loginfirstpage.dll
+C:\Users\santosh\source\repos\Loginfirstpage\Loginfirstpage\Loginfirstpage\obj\Debug\netstandard2.0\Loginfirstpage.pdb
